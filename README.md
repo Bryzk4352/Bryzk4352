@@ -17,7 +17,6 @@
 ## 👋 About Me
 
 🧑‍💻 I'm **Bryan Hinahon**, Aspiring Software Engineer.<br/>
-💼 Based in **Naic Cavite**, working at ****.<br/>
 🌱 Currently learning: ** JavaScript **<br/>
 💬 Ask me about: **Java, Web development**<br/>
 ⚡ Fun fact: I enjoy exploring random things
