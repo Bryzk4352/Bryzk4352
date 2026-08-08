@@ -1,5 +1,6 @@
 <p>
-  <img align="left" width="490" height="265" src="banner.gif"/>
+  <img align="left" width="100%" height="265" src="banner.gif"/>
+  <br>
   <p align="right">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white"/>
