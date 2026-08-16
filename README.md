@@ -26,8 +26,3 @@
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanhinahon99@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-hinahon-362b15424/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryzk4352)
-
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryzk4352&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
